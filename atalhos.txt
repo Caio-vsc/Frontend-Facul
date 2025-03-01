@@ -1,0 +1,32 @@
+----HTML----
+- f5 vai rodar o código
+- <link> faz referência a outra página como (style.css)
+- <script> faz referência a página js
+- (p*3) gera 3 paragrafos
+- alt + ctrl + seta para baixo, escreve em várias linhas 
+- ctrl + shit + p 
+- escreve (wrap) e seleciona tipo
+- &nbsp: gera espaço em html (melhor fazer isso pelo css)
+- <a> serve para adicionar um link 
+- tag <b> coloca o texto em negrito
+- tag <strong> chama mais atenção
+- &lt/&gt faz o sinal < e > aparecerem no site
+- <hr> cria uma linha divisória 
+- <br> pula uma linha
+- <h1> Título
+- <h2> Sub Título	
+- <p> paragrafos
+- <ins> sublinha a palavra
+- <del> risca a palavra
+- <mark> grifa a palavra
+- <blockquote> explicação
+- <ul> cria uma lista não ordenada
+- <li> item que faz parte da lista
+- <ul> Cria uma lista não ordenada
+- <ol> Cria uma lista ordenada
+- <ol type="I"> é ordenado por número romano
+- <ol start="6"> começa apartir do número entre aspas
+- <ol type="A"> é ordenado por letras 
+- <dt> termo (lista de definição)
+- <dd> descrição (lista de definição)
+- Alt + shit + seta para baixo, copia o código
